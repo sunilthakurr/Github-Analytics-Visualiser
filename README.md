@@ -15,7 +15,7 @@ GitHub Analytics Visualizer is a web application that allows users to visualize 
 
 ## Demo
 
-You can try out the GitHub Analytics Visualizer [here](#https://github-analytics-visualiser.netlify.app/).
+You can try out the GitHub Analytics Visualizer [here](https://github-analytics-visualiser.netlify.app/).
 
 ## How to Use
 
