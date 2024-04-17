@@ -1,8 +1,4 @@
-# Github-Analytics-Visualiser
-Deployed link :- https://github-analytics-visualiser.netlify.app/
-
-
-# GitHub Analytics Visualizer
+# GitHub Analytics Visualiser
 
 GitHub Analytics Visualizer is a web application that allows users to visualize analytics for any GitHub repository. Users can search for a GitHub username and view detailed analytics for the repositories associated with that user, including statistics such as stars, forks, and open issues. Additionally, users can directly navigate to the repository to explore further details.
 
