@@ -35,3 +35,4 @@ To run GitHub Analytics Visualizer locally, follow these steps:
 
 1. Clone this repository to your local machine:  https://github.com/sunilthakurr/github-analytics-visualiser.git
 2. Install Dependencies :- npm install
+3. To run project :- npm run dev
